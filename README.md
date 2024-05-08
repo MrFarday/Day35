@@ -1,6 +1,11 @@
 ## PostgreSQL Docker
 
 ## Python Code
+
+requirement Version
+Python 3.11
+Postgres 15
+
 requirement module
 - sqlalchemy
 - openpyxl
