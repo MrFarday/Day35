@@ -3,8 +3,11 @@
 ## Python Code
 
 requirement Version
-Python 3.11
-Postgres 15
+- Python 3.11
+- Postgres 15
+
+Ports
+- 5436
 
 requirement module
 - sqlalchemy
