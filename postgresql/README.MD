@@ -8,6 +8,9 @@ requirement module
 
 Code to Install 
 ```
-!pip install sqlalchemy
-!pip install openpyxl
+pip install sqlalchemy
+pip install openpyxl
 pip install psycopg2
+
+## DataSet
+https://raw.githubusercontent.com/salbifaza/datasets/main/diamond/diamonds.csv
